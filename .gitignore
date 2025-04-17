@@ -1,0 +1,11 @@
+.vscode
+./ChatServer/obj/
+ChatServer\ChatServer.vcxproj
+ChatServer\ChatServer.sln
+*/.vs
+*/*.vcxproj
+*/*.sln
+*/*.vcxproj.filters
+*/*.vcxproj.user
+.\windowsClient\x64\Debug\
+!.\windowsClient\x64\Debug\windowsClient.exe
