@@ -9,5 +9,5 @@
 */*.vcxproj.user
 
 !windowsClient/x64/Debug/windowsClient.exe
-windowsClient/x64/Debug/windowsClient.tlog
 !./ChatServer/bin/x64/Debug/ChatServer.out
+/windowsClient/x64/Debug/windowsClient.tlog
