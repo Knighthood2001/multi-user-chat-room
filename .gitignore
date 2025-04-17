@@ -1,5 +1,5 @@
 .vscode
-./ChatServer/obj
+./ChatServer/obj/*
 ./ChatServer/ChatServer.vcxproj
 ./ChatServer/ChatServer.sln
 */.vs
@@ -9,6 +9,6 @@
 */*.vcxproj.user
 !./windowsClient/x64/Debug/windowsClient.exe
 ./windowsClient/x64/Debug
-./windowsClient/x64/Debug/windowsClient.tlog
+./windowsClient/x64/Debug/windowsClient.tlog/*
 */obj
 !./ChatServer/bin/x64/Debug/ChatServer.out
